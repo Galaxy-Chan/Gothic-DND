@@ -1,0 +1,81 @@
+    TEXT GAME PART (gameplay)
+
+Health: (add this calculation to the current health every level) (class hit die [either roll or take median]  + constitution modifier)
+
+Attack roll: (d20 + str or dex mod [depends on weapon] + proficiency bonus [depends if they are proficient with the weapon used])
+
+Damage: (weapon hit die + proficiency bonus + str or dex modifier [depends on type of weapon] + any spell or ability buffs currently used [unless these abilities specifically they don’t stack])
+
+Armor class: usually ten, can be changed by race, class, or armor worn
+
+Ability modifier: (ability divided by 2 - 5)
+
+Proficiency bonus: check what levels have what bonus
+
+Skills: (the associated ability’s modifier plus proficiency bonus [if they are proficient in the skill])
+
+
+        Gods
+Aisvide (eternity)
+Luttehre the honored (war)
+The colombe matron (peace)
+
+
+        Magic
+Inspired by dnd’s “weave”, magic is a physical plane of existence, an interconnected web of pure energy that certain people can tap into to do…magic shit. 
+
+Whether born with magic ala prophecy or dragon-fucking mother, a studious wizard, reincarnation of an important figure, or a pact with some otherworldly being, arcane magic is considered inherently evil or dangerous.
+
+There are 4 major kinds of magic, psionic, Divine, arcane, and eldritch. 
+
+Psionic is the newest kind discovered, whether through true enlightenment or an encounter with mind-bending beings, casters can replicate a sort of pseudo-sorcery using their brain alone. Common uses are telekinesis, telepathy, enchantment, etc. some see it as odd, while others see it as the truest form of magic and human potential.
+
+Divine magic is seen as incredibly necessary among the church and wider world, between devil deals and holy crusades there is no better tool to dispatch foes of the righteous. Applications include healing, reverse healing to rot someone away, resurrection, or casting down light or hellfire.
+
+Eldritch is the rarest kind of magic, few practitioners and even fewer masters make up this type, and for good reason. Also known as “somauge” (combines French and German for “dark” and “eye”), this magic is by far the most unstable. This magic bends cosmic forces to its will, twisting universe itself into their personal playground. The most powerful spells include warping gravity, weaponizing the energy of stars, conjuring black holes and shooting dark matter from their very fingertips. Killing themselves slowly in exchange for unrivaled power, this mysterious power is slowly making its mark on the land.
+
+Finally, arcane, the most widespread and understood magic type, encapsulates most common uses of magic. It stems from the weave, and is considered inherently evil, due to the users slowly destroying the weave by shaping it into projections of power. Applications include abjuration, evocation, necromancy, transmutation, conjuration, illusion, and divination.
+
+No magic can be created or destroyed, arcane rips from the weave, Divine comes from the depths of hell and heights of the heavens, psionic takes from the mind, and eldritch comes from an unknown place in time and space.
+
+
+        Classes
+Fleshfist
+An assassin of the cadvere family, through unknown means these people are conditioned to manipulate their bodies in ways thought impossible for the natural human body. Whether shooting highly pressurized blood from their body, tendrils of hair meant to suffocate enemies, or weapons made of their own bones, these slick masters of hand to hand combat are never “unarmed” to say the least…
+
+Incarnate
+Some say fairytales are fake, and while they are to some, they are all too real to others… reincarnations of great beasts and villains, these unfortunate souls can transform partially into creatures they inherit power from, some even embrace their past completely, becoming little more than monsters. These heroes choose whether to walk the path of their past life or become heroes.
+
+Celestialite 
+Exposed to the crawling insanity of the nightmare realm at a young age, celestialites have a natural affinity for eldritch magic. A walking supernova of potential crosses the wastelands as the celestialites crash through the battlefield, using weapons of pure sunlight and crushing the bodies of foes with the might of a black hole.
+Some focus upon being a shining beacon of solar hope, while others are as dark and mysterious as the far side of the moon…
+
+Null 
+Nulls devote their life to chasing spiritual enlightenment, and some actually achieve it. Psionic magic and astral projections are common tools to a null, and their ability to dispel magic around them makes them a valuable mercenary. Shooting stunning mental blasts, clouding other’s minds, moving objects and people with their mind alone and empowering their physical strikes with internally damaging psychic energy are all fair game. Although their means of might are a bit avante- garde nulls still have a place in society as powerful tools.
+
+Faust
+A deal with the devil? How cliché. Everyone and their mother has heard of bargaining with devils as a source of power, but little actually go through with the process without losing something. Fausts are no different, self-called savvy contractors who thought they could outdo the original deal makers. Infernal divine magic is what they have obtained for their strife, hellfire, summoning devils, and even partially transforming into one themselves. Depending on the devil they made a deal with, they may even receive more favors from their fiery friends.
+
+Divine servant
+The church’s clerics and crusaders, the shaman’s of the forest, the old cults of lore. Whatever type of holy person they are, they have devoted themselves to their god, and they serve however they can. In exchange for this devotion, they receive many blessings of their god, depending on the god they could conjure light, heal the injured, raze the ground, decay the living, and everything in between. Divine magic is incredibly diverse and these divine servants use it to pave the path forward to salvation.
+
+Redeye
+Those cursed with the intoxicating power of a dreaded vampire, whether their spawn or descendants, they have an insatiable thirst on the battlefield. Supernatural strength, speed, wall walking, flight, animal shifting, and the ability to feed on creatures are defining traits of a redeye. There are multiple kinds of redeyes, nasferatu (elder), nuitfurcht (feral), and könserv (royal), that dictate the bloodline of the redeye and powers they obtain.
+
+Stalker
+After being infused with “hunter’s blood”, while the great majority die, a select few who endure the pain of the procedure rise as stalkers. Sworn hunters of those they call prey, stalkers protect the people at all costs, so goes their coat of arms “un pour quelques-uns, un pour plusieurs”. Fighters of fame, glory, and gore, stalkers are often found focusing on dexterous dodging or pure brute strength. While some have barely a scratch upon them after countless battles, weaving through combat as a ghost, others are horribly disfigured after encounters, wielding weapons many times heavier than themselves. Many stalkers are known to hack apart their enemies and make weapons from their limbs and bones.
+
+Wrathborn
+Wrathborn are quite literally too angry to die. Warlords and murderers in life, the Wrathborn are the embodiment of primal instinct. Often encountered wearing no armor at all, they have skin harder than iron and resolve twice as strong. Fighting with animalistic fury can make a Wrathborn’s skin reach such high temperatures their sweat boils and evaporates off of them, making shrouds of mist. They are known to reach massive sizes capable of crushing skulls in the palm of their hand.
+
+Reaper
+Legend says if you pass away near a reaper, your soul will become trapped in their surgical tools. Reapers are unique in a way that they aren’t innately magical, however, their obsession with the human body and it’s inner workings makes them experts of debilitating opponents. Their signature tool is a bag of surgical instruments, but anything is a weapon in their hands. A single snapped a tendon, a single shattered rib, a single torn muscle is all it takes to win, and reapers embody this brutal style of fighting.
+
+Arcanist
+While everyone is a moral shade of gray in this cruel world, the arcanists are especially known for their sinister tendencies. Because while everyone else has their fate and powers often thrust upon them by circumstance, Arcanists actively participate in destruction of the weave, an entire realm for their own personal gain. Evocation allows them to throw around the elements as weapons, transmutation can transform materials into others, powerful illusions can create matter or even entire landscapes. While some are kind and use their powers for good, the source is so undeniably evil that everyone knows you should never trust a wizard.
+
+Apothecary
+It’s considered bad luck to shake hands with an apothecary due to an old tale that claimed the first apothecary made a deal with a devil for his intelligence. Known for discovering the formula of gold and even the human soul, apothecaries are bona fide geniuses in their own right. Throwing back potions and transmuting the world around them with science is the name of their game, often scrapping together strategies and traps together in an instant. Not to mention their creativity in regards to transmutation magic, which they use to both attack and defend while they work.
+
+Marksman
+A good marksman is never seen. With the subtle twang of a bow string or the sharp bang of a rifle you’ll only know a marksman has you in their sights when everything fades to black. Absolute precision and a knack for hiding make a marksman formidable. They are often accompanied by beasts they have tamed in their long and winding travels, serving as a guard or mount, and trusted companion. When a marksman and his companion reach the apex of their strength, they are able to see through each other’s eyes, coordinate perfectly without communication and even draw upon each other’s strength to empower themselves.
