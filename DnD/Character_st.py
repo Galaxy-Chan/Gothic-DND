@@ -1,19 +1,3 @@
-import random
-#for dice
-
-#creates class for 20 sided die
-class Die:
-    def __init__(self, sides=20):
-        self.sides = sides
-    def roll(self):
-        return random.randint(1, self.sides)
-
-#making print statement for test
-def dieroll(Die):
-    d20 = Die()
-    result = d20.roll()
-    print("You rolled a: ", result,"\n")
-
 #creates character with only name input
 class Char:
     def __init__(self):
@@ -83,35 +67,3 @@ class Stats(Char):
     def PrintBaseStats(self):
         print(f"Strength: {self.Strength}\nDexterity: {self.Dex}\nConstitution(endurance): {self.Const}\nIntelligence: {self.Intell}\nWisdom: {self.Wisdom}\nCharisma: {self.Charisma}\n")
         print("You have 27 points you may spend into these values! You may remove some points in others to put to other values.\n")
-
-#creates gameplay rotates with character, die, and stats to be called
-class GameplayRota(Stats, Char, Die):
-    def __init__(self):
-        character = Char()
-        stats = Stats()
-        character.charname()
-        stats.PrintBaseStats()
-
-#making definitions for small test loops
-def Play():
-    GameplayRota()
-
-#testing the die rolling
-def DieTest():
-    dieroll(Die)
-
-#small testing dynamic for myself, includes main screen after testing and stop point
-def Testdynamics():
-    user1 = input(str("Test die or play?: 1 = test, 2 = play\n"))
-    if user1 == "1":
-        DieTest()
-        user2 = input(str("Main screen? 1=Y 2=N: "))
-        if user2 == "1":
-            Testdynamics()
-        else:
-            print("stopping.. ")
-            pass
-    else:
-        Play()
-
-Testdynamics()
